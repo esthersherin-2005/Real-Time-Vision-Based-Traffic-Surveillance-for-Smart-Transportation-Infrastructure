@@ -60,7 +60,7 @@ https://www.pexels.com/search/vehicles%20in%20lanes/
 
 ## Sample Working Videos
 
-- [Sample Video 1 – Google Drive Link](https://drive.google.com/file/d/1mRvmeObUN9UmmCivtDlClf2OtUJ9p1L/view?usp=sharing)
+- [Sample Video 1 – Google Drive Link](https://drive.google.com/file/d/1mRvmeObUN9UmmCivt-DlCIf2OtUJ9p1L/view?usp=sharing)
 
 - [Sample Video 2 – Google Drive Link](https://drive.google.com/file/d/1fUqmKRAkzxzS4E29boWtVwxl3jdGQhl1/view?usp=sharing)
 
