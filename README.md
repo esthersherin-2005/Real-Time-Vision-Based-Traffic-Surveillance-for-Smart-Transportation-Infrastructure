@@ -58,10 +58,10 @@ Speed estimation testing videos were collected from:
 
 https://www.pexels.com/search/vehicles%20in%20lanes/
 
-Sample Working Videos
+## Sample Working Videos
 
-- [Sample Video 1 – Google Drive Link]((https://drive.google.com/file/d/1mRvmeObUN9UmmCivt-DlCIf2OtUJ9p1L/view?usp=sharing))
+- [Sample Video 1 – Google Drive Link](https://drive.google.com/file/d/1mRvmeObUN9UmmCivtDlClf2OtUJ9p1L/view?usp=sharing)
 
-- [Sample Video 2 – Google Drive Link]((https://drive.google.com/file/d/1fUqmKRAkzxzS4E29boWtVwxl3jdGQhI1/view?usp=sharing))
+- [Sample Video 2 – Google Drive Link](https://drive.google.com/file/d/1fUqmKRAkzxzS4E29boWtVwxl3jdGQhl1/view?usp=sharing)
 
-- [Sample Video 3 – Google Drive Link]((https://drive.google.com/file/d/1vPhkFHodsuF1_wCleEwveKww4Pke1vwl/view?usp=sharing))
+- [Sample Video 3 – Google Drive Link](https://drive.google.com/file/d/1vPhkFHodsuF1_wCleEvweKww4Pke1vwI/view?usp=sharing)
