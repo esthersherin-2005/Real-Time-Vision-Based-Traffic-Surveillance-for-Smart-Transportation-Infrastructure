@@ -1,0 +1,1 @@
+By using a modular approach, the architectural design maintains com-putational efficiency for real-time processing while facilitating smooth subsystem integration. The pipeline is shown in Figure 1, which shows the data flow from capture to presentation.
